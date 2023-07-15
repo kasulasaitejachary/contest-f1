@@ -1,0 +1,29 @@
+#a {
+    background-color: black;
+    color: white;
+    /* height: 40px; */
+
+}
+
+#b {
+    background-color: black;
+    color: white;
+    text-decoration: none;
+    border: 20px;
+}
+
+#c {
+    width: 30%;
+    height: 400px;
+}
+
+table{
+    border: 1px solid black;
+    border-collapse: collapse;
+    text-align: center;
+    
+}
+
+#e {
+    color: white;
+}
